@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-ver3/static/css/main.01209688.css",
+    "main.js": "/test-ver3/static/js/main.dd4096e5.js",
+    "index.html": "/test-ver3/index.html",
+    "static/media/check.svg": "/test-ver3/static/media/check.a7a16c18959b0bb7b7949b94ae02bb7b.svg",
+    "main.01209688.css.map": "/test-ver3/static/css/main.01209688.css.map",
+    "main.dd4096e5.js.map": "/test-ver3/static/js/main.dd4096e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01209688.css",
+    "static/js/main.dd4096e5.js"
+  ]
+}
